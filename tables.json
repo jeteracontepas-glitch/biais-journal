@@ -1,0 +1,26 @@
+[
+  [
+    "Date/Heure",
+    "Symbole",
+    "TF",
+    "Événement",
+    "Biais Londres",
+    "Biais NY",
+    "Signal",
+    "Taux réussite (%)",
+    "Espérance (R)",
+    "JSON complet"
+  ],
+  [
+    "2026-07-12T23:34:02.839Z",
+    "MNQ1!",
+    60,
+    "TEST",
+    "Haussier",
+    "Haussier",
+    "Aucun",
+    28.4,
+    0.11,
+    "{\"type\":\"TABLES\",\"symbol\":\"MNQ1!\",\"tf\":\"60\",\"event\":\"TEST\",\"time\":\"2026-07-12T23:34:02.839Z\",\"biasLondon\":\"Haussier\",\"biasNY\":\"Haussier\",\"winRate\":28.4,\"wins\":65,\"losses\":164,\"expectancy\":0.11,\"avgWinRR\":2.91,\"signal\":null,\"levels\":[{\"name\":\"Asia High\",\"rejet\":59,\"cassure\":41,\"n\":2126,\"price\":30076.75}],\"buckets\":[{\"range\":\"50-55%\",\"n\":86,\"win\":25.6,\"rr\":3.6,\"exp\":0.18}]}"
+  ]
+]
