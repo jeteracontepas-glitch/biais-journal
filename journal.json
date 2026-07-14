@@ -53,8 +53,8 @@
     "CLOS",
     "LOSS",
     52653,
-    "NON",
-    "Orphelin (bug moteur mono-trade): ecrase par le signal suivant sans cloture. Corrige main 14/07 - SL touche."
+    "",
+    ""
   ],
   [
     "2026-07-14T00:00:00.000Z",
@@ -73,6 +73,25 @@
     "LOSS",
     52652,
     "NON",
-    "Corrige main 14/07: resolution H1 aveugle -> SL touche avant TP (vu en direct). Fix v1.9 pour lavenir."
+    ""
+  ],
+  [
+    "2026-07-14T03:00:00.000Z",
+    "MGC1!",
+    60,
+    "SELL",
+    "VWAP",
+    "Cassure (continuation) + Liquidité VolumeProfile ",
+    4021.7,
+    4025.8,
+    3992.9,
+    7.02,
+    55.9,
+    1940,
+    "OUVERT",
+    "",
+    "",
+    "",
+    ""
   ]
 ]
